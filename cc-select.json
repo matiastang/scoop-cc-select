@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/matiastang/cc-select/releases/download/v0.0.1/cc-select_0.0.1_windows_amd64.zip",
+            "bin": [
+                "cc-select.exe"
+            ],
+            "hash": "ce45031ce3654ae47b10ea49f8be674c30b2a745349ca867cd3207b43fa02fd0"
+        }
+    },
+    "homepage": "https://github.com/matiastang/cc-select",
+    "license": "Apache-2.0",
+    "description": "Shell-level AI provider isolation for Claude Code"
+}
