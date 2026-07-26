@@ -1,12 +1,12 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/matiastang/cc-select/releases/download/v0.0.4/cc-select_0.0.4_windows_amd64.zip",
+            "url": "https://github.com/matiastang/cc-select/releases/download/v0.0.5/cc-select_0.0.5_windows_amd64.zip",
             "bin": [
                 "cc-select.exe"
             ],
-            "hash": "03f6ab4bf194e6f9f88cd1b6281a948f92f4d8a280a15f3abe02abba5e07e128"
+            "hash": "f946f7859fdb6b6bece21351c4313dde3ff1858e4f3fd634e83cec7ca09f4f17"
         }
     },
     "homepage": "https://github.com/matiastang/cc-select",
